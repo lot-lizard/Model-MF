@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="16mm"
+   height="6.208602mm"
+   viewBox="0 0 56.692913 21.998983"
+   id="svg4175"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   inkscape:export-filename="\\Mac\Home\Desktop\ibm.png"
+   inkscape:export-xdpi="499.5"
+   inkscape:export-ydpi="499.5"
+   sodipodi:docname="ibm.svg">
+  <defs
+     id="defs4177" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="3.959798"
+     inkscape:cx="19.57891"
+     inkscape:cy="72.437899"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1378"
+     inkscape:window-height="772"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata4180">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Layer 2"
+     transform="translate(16.428572,-45.71429)">
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.58000004;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4766"
+       width="56.692913"
+       height="22.000393"
+       x="-16.428572"
+       y="45.712879" />
+  </g>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-101.39731,-351.30978)">
+    <g
+       id="g4753"
+       transform="matrix(-0.7222959,0,0,0.7222959,243.19497,136.69132)">
+      <text
+         transform="scale(0.87942449,1.1371073)"
+         sodipodi:linespacing="125%"
+         id="text4136"
+         y="288.09131"
+         x="129.28232"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.41368484px;line-height:125%;font-family:Melbourne;-inkscape-font-specification:'Melbourne, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.88489151px;font-family:MeninBlue;-inkscape-font-specification:MeninBlue;letter-spacing:1.57183397px;fill:#000000;fill-opacity:1"
+           y="288.09131"
+           x="129.28232"
+           id="tspan4138"
+           sodipodi:role="line">I</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:31.2728157px;line-height:125%;font-family:Melbourne;-inkscape-font-specification:'Melbourne, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="135.98399"
+         y="317.03882"
+         id="text4170"
+         sodipodi:linespacing="125%"
+         transform="scale(0.96791676,1.0331467)"><tspan
+           sodipodi:role="line"
+           id="tspan4172"
+           x="135.98399"
+           y="317.03882"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:41.69706345px;font-family:MeninBlue;-inkscape-font-specification:MeninBlue;letter-spacing:2.01999998px;fill:#000000;fill-opacity:1">BM</tspan></text>
+    </g>
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:0;stroke:none;stroke-width:1.58000004;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4764"
+       width="82.14286"
+       height="45.714287"
+       x="106.39731"
+       y="295.45163" />
+  </g>
+</svg>
